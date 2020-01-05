@@ -82,7 +82,7 @@
   },
   "peerDependencies": {},
   "dependencies": {
-    "lottie-web": "^5.1.3"
+    "lottie-web": "^5.5.10"
   },
   "files": [
     "dist"
